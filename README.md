@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/ka-kamrul-hasan-ab90391b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
   </a>
-  <a href="mailto:kakamrul2000@gmail.com?subject=Hello%20Kakamrul&body=Hi%20Kakamrul," target="_blank">
+  <a href="mailto:kakamrul2000@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40">
 </a>
   <a href="https://github.com/kakamrulhasan" target="_blank">
