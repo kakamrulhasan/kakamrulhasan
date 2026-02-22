@@ -5,25 +5,23 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kakamrulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="kakamrulhasan" /> </p>
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
 # 💫 About Me:
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 🔭 I’m currently working on: Building scalable Flutter mobile apps and production-ready Express.js backends<br>👯 I’m looking to collaborate on: Flutter projects, full-stack apps, and REST API development<br>🤝 I’m looking for help with: Advanced system design and large-scale architecture patterns<br>🌱 I’m currently learning: Advanced Flutter, performance optimization, and scalable backend patterns<br>💬 Ask me about: Flutter (MVVM), Express.js (MVC), REST APIs, and mobile app development
 
 
 ## 🌐 Socials
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ka-kamrul-hasan-ab90391b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
   </a>
-  <a href="mailto:kakamrul2000@gmail.com" target="_blank">
+  <a href="kakamrul2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40">
   </a>
   <a href="https://github.com/kakamrulhasan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://x.com/KAKamrulHasan1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40">
   </a>
 </p>
@@ -36,6 +34,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kakamrulhasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=kakamrulhasan&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 ### 🔝 Top Contributed Repo
 | <div><br>![](https://github-contributor-stats.vercel.app/api?username=kakamrulhasan&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)<br>[![](https://visitcount.itsvg.in/api?id=kakamrulhasan&icon=2&color=13)](https://visitcount.itsvg.in)</div> | <img alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"> |
