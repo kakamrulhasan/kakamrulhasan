@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kakamrulhasan&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
-
+<img align="right" alt="Coding" width="440" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kakamrulhasan&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
