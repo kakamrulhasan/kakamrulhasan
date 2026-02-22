@@ -6,6 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kakamrulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="kakamrulhasan" /> </p>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 # 💫 About Me:
 🔭 I’m currently working on: Building scalable Flutter mobile apps and production-ready Express.js backends<br>👯 I’m looking to collaborate on: Flutter projects, full-stack apps, and REST API development<br>🤝 I’m looking for help with: Advanced system design and large-scale architecture patterns<br>🌱 I’m currently learning: Advanced Flutter, performance optimization, and scalable backend patterns<br>💬 Ask me about: Flutter (MVVM), Express.js (MVC), REST APIs, and mobile app development
 
