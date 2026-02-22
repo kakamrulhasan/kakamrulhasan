@@ -1,4 +1,78 @@
-<h1 align="center">Hi 👋, I'm Kamrul Hasan Emo</h1>
+<section class="hero">
+  <h1 align="center">
+    Hi 👋, I'm 
+    <span id="typewriter" class="typewriter">Kamrul Hasan Emo</span>
+    <span class="cursor">|</span>
+  </h1>
+</section>
+
+<style>
+  .hero {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a1a1a;
+    color: white;
+    font-family: 'Arial', sans-serif;
+  }
+
+  h1 {
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  .typewriter {
+    color: #00d4ff; /* Accent color for changing text */
+  }
+
+  .cursor {
+    font-weight: bold;
+    color: #00d4ff;
+    animation: blink 0.7s infinite;
+  }
+
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+</style>
+
+<script>
+  const textElement = document.getElementById('typewriter');
+  const phrases = ["Kamrul Hasan Emo", "Flutter & Full-Stack Dev", "Mobile App Enthusiast", "Express.js & REST APIs"];
+  let phraseIndex = 0;
+  let characterIndex = 0;
+  let isDeleting = false;
+  let typeSpeed = 150;
+
+  function type() {
+    const currentPhrase = phrases[phraseIndex];
+    
+    if (isDeleting) {
+      textElement.textContent = currentPhrase.substring(0, characterIndex - 1);
+      characterIndex--;
+      typeSpeed = 50;
+    } else {
+      textElement.textContent = currentPhrase.substring(0, characterIndex + 1);
+      characterIndex++;
+      typeSpeed = 150;
+    }
+
+    if (!isDeleting && characterIndex === currentPhrase.length) {
+      isDeleting = true;
+      typeSpeed = 2000;
+    } else if (isDeleting && characterIndex === 0) {
+      isDeleting = false;
+      phraseIndex = (phraseIndex + 1) % phrases.length;
+      typeSpeed = 500;
+    }
+
+    setTimeout(type, typeSpeed);
+  }
+
+  document.addEventListener('DOMContentLoaded', type);
+</script>
 <h3 align="center">A passionate Flutter & Full-Stack Developer from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kakamrulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="kakamrulhasan" /> </p>
@@ -8,8 +82,22 @@
 🔭 I’m currently working on: Building scalable Flutter mobile apps and production-ready Express.js backends<br>👯 I’m looking to collaborate on: Flutter projects, full-stack apps, and REST API development<br>🤝 I’m looking for help with: Advanced system design and large-scale architecture patterns<br>🌱 I’m currently learning: Advanced Flutter, performance optimization, and scalable backend patterns<br>💬 Ask me about: Flutter (MVVM), Express.js (MVC), REST APIs, and mobile app development
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ka-kamrul-hasan-ab90391b7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kakamrul2000@gmail.com) 
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ka-kamrul-hasan-ab90391b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+  </a>
+  <a href="mailto:kakamrul2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40">
+  </a>
+  <a href="https://github.com/kakamrulhasan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40">
+  </a>
+</p>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -20,12 +108,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kakamrulhasan&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
-<img align="right" alt="Coding" width="440" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kakamrulhasan&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=kakamrulhasan&icon=2&color=13)](https://visitcount.itsvg.in)
+| <div>### 🔝 Top Contributed Repo<br>![](https://github-contributor-stats.vercel.app/api?username=kakamrulhasan&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)<br>[![](https://visitcount.itsvg.in/api?id=kakamrulhasan&icon=2&color=13)](https://visitcount.itsvg.in)</div> | <img alt="Coding" width="440" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"> |
+|---|---|
 
 
 
