@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=00d4ff&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kamrul+Hasan+Emo;Flutter+%26+Full-Stack+Developer;Mobile+App+Enthusiast;Express.js+%26+REST+APIs" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=00d4ff&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kamrul+Hasan;Flutter+%26+Full-Stack+Developer;Mobile+App+Enthusiast;Express.js+%26+REST+APIs" alt="Typing SVG"/>
 </h1>
 <h3 align="center">A passionate Flutter & Full-Stack Developer from Bangladesh</h3>
 
