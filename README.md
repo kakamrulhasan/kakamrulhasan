@@ -44,7 +44,7 @@
 
 ### 🔝 Top Contributed Repo
 
-| <div align="center"><br><img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=kakamrulhasan&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=4"/><br><br>![](https://github-contributor-stats.vercel.app/api?username=kakamrulhasan&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)<br>[![](https://visitcount.itsvg.in/api?id=kakamrulhasan&icon=2&color=13)](https://visitcount.itsvg.in)</div> | <img alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"> |
+| <div align="center"><br><img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=kakamrulhasan&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=4"/><br><br>![](https://github-contributor-stats.vercel.app/api?username=kakamrulhasan&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)<br>[![](https://visitcount.itsvg.in/api?id=kakamrulhasan&icon=2&color=13)](https://visitcount.itsvg.in)</div> | <img alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"> |
 |---|---|
 
 # 💼 Professional Experience
