@@ -43,11 +43,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kakamrulhasan&theme=dracula&hide_border=true&background=0F172A&stroke=38BDF8&ring=10B981&fire=38BDF8&currStreakNum=FFFFFF&sideNums=10B981&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" width="85%" />
 </p>
 
-<p align="center">
-  
-  <img alt="Coding" width="85%" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  >
-  
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakamrulhasan&theme=dracula" width="85%" />
