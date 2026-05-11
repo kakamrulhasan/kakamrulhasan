@@ -6,13 +6,23 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kakamrulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="kakamrulhasan" /> </p>
 
 ### 💫 About Me:
-<!-- Animated sparkling wave divider -->
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
+
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-🔭 I’m currently working on: Building scalable Flutter mobile apps and production-ready Express.js backends<br>👯 I’m looking to collaborate on: Flutter projects, full-stack apps, and REST API development<br>🤝 I’m looking for help with: Advanced system design and large-scale architecture patterns<br>🌱 I’m currently learning: Advanced Flutter, performance optimization, and scalable backend patterns<br>💬 Ask me about: Flutter (MVVM), Express.js (MVC), REST APIs, and mobile app development
-<!-- Animated sparkling wave divider -->
+
+- 💼 Flutter Developer with **5+ months of experience**
+- 📱 Built & deployed **2+ production-ready apps** on Google Play Store & Apple App Store
+- ⚡ Improved app performance, reducing crashes by **30%** and enhancing user experience by **20%**
+- 💳 Experienced in **In-App Purchase integration (RevenueCat)**
+- 🏗️ Strong knowledge of **MVVM, MVC, and scalable app structure**
+- 🔥 Skilled in **Flutter, Dart, Firebase, REST APIs, and Express.js**
+- 🚀 Passionate about building **high-performance, scalable, and modern mobile applications**
+- 🌱 Currently exploring **advanced system design, backend scalability, and app optimization**
+- 🤝 Open to collaborating on **Flutter apps, full-stack projects, and innovative mobile solutions**
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -59,17 +69,18 @@
 | <div align="center"><br><img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=kakamrulhasan&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=4"/><br><br>![](https://github-contributor-stats.vercel.app/api?username=kakamrulhasan&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)<br>[![](https://visitcount.itsvg.in/api?id=kakamrulhasan&icon=2&color=13)](https://visitcount.itsvg.in)</div> | <img alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"> |
 |---|---|
 
+
 # 💼 Professional Experience
 
 **Junior Flutter & BackEnd Developer**  
 Softvench Delta — Dhaka, Bangladesh  
 *January 2026 – Present*
 
-- Engineered enterprise-grade Flutter applications following **MVVM Architecture** principles  
-- Delivered low-latency **WebRTC** solutions for 1:1 and group video calling with full background support  
-- Implemented rock-solid payment integrations (**Stripe, Apple Pay, Google Pay**) — 100% transaction reliability  
-- Achieved ~20% app size reduction and ~30% faster cold starts through advanced optimization techniques  
-- Owned end-to-end deployment lifecycle across App Store Connect and Google Play Console  
+- Built scalable apps, reducing crashes by **30%**  
+- Published **2 apps** on Play Store & App Store  
+- Collaborated with **18+ team members**  
+- Fixed **20+ performance issues** → **99.9% responsiveness**  
+- Improved code quality by **25%** through code reviews  
 
 **Flutter Developer Intern**  
 SoftVence Delta (Betopia Group Limited) — Dhaka, Bangladesh  
@@ -79,6 +90,28 @@ SoftVence Delta (Betopia Group Limited) — Dhaka, Bangladesh
 - Improved runtime performance by 30% and reduced app size by 20% via code & asset optimization  
 - Transformed raw data into intuitive, data-driven user interfaces  
 
+<!-- Final animated sparkling wave divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+# 🚀 Featured Projects  
+
+### 🌿 Ayni Wellness  
+Self-care & wellness app  
+- 🧘 Meditation & routines  
+- 📔 Mood tracking & journaling  
+- 🔗Play Store: https://play.google.com/store/apps/details?id=com.ayniwellness.ayni_wellness 
+- 🔗 App Store: https://apps.apple.com/us/app/ayni-wellness/id6759598419 
+
+---
+
+### 🏥 Vital Hands  
+Healthcare staffing platform  
+- 📍 Find & apply for shifts  
+- 📊 Track payments & performance  
+- 🔗Play Store: https://play.google.com/store/apps/details?id=com.viralhands
+- 🔗 App Store: https://apps.apple.com/us/app/vital-hands/id6761807200  
 <!-- Final animated sparkling wave divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
